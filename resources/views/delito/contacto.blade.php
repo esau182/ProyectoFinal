@@ -31,23 +31,6 @@
 
       <div class="row">
 
-        <div class="col-lg-4 col-md-6 mb-4">
-          <div class="person-29191 text-center">
-            <div class="px-4">
-              <h2 class="mb-2">Alejandro García</h2>
-              <p class="caption mb-4">Desarrollador</p>
-              <p>
-                Estudiante de quinta inscripción de la carrera Ingeniaría Informática
-                en el Centro Universitario de Ciencias Exactas e Ingenierías
-              </p>
-              <div class="social-icons2">
-                <a href="#"><img src="{{asset('img/instagram_icon.png')}}"/></a>
-                <a href="#"><img src="{{asset('img/twitter_icon.png')}}"/></a>
-                <a href="#"><img src="{{asset('img/tiktok_icon.png')}}"/></a>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="person-29191 text-center">
@@ -67,23 +50,6 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 mb-4">
-          <div class="person-29191 text-center">
-            <div class="px-4">
-              <h2 class="mb-2">Pedro Reyes</h2>
-              <p class="caption mb-4">Desarrollador</p>
-              <p>
-                Estudiante de quinta inscripción de la carrera Ingeniaría Informática
-                en el Centro Universitario de Ciencias Exactas e Ingenierías
-              </p>
-              <div class="social-icons2">
-                <a href="#"><img src="{{asset('img/instagram_icon.png')}}"/></a>
-                <a href="#"><img src="{{asset('img/twitter_icon.png')}}"/></a>
-                <a href="#"><img src="{{asset('img/tiktok_icon.png')}}"/></a>
-              </div>
-            </div>
-          </div>
-        </div>
 
       </div>
 
