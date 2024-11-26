@@ -118,6 +118,55 @@ php artisan serve
 
 ![image](https://github.com/user-attachments/assets/4b481551-e595-4fbd-ab30-21cd79600e1e)
 
+## Mis delitos
+
+![image](https://github.com/user-attachments/assets/fdd17b98-e9b4-4d45-a8ee-21e1bce40e7b)
+
+## Agregar contacto de emergencia
+
+![image](https://github.com/user-attachments/assets/16713527-c967-415d-9956-bf564947b0ab)
+
+![image](https://github.com/user-attachments/assets/11774c06-df10-49ed-8d3f-d074cc7f185b)
+
+![image](https://github.com/user-attachments/assets/67216708-85ff-4f62-bde6-aea5fc265457)
+
+## Botón de compartir mi ubicación
+
+![image](https://github.com/user-attachments/assets/d9320c1e-eb00-408a-90fa-86432bb9aafb)
+
+![image](https://github.com/user-attachments/assets/32ced504-29fd-4f30-856e-ffdce5c4e260)
+
+## Botón para llamar al 911
+
+![image](https://github.com/user-attachments/assets/1441cc84-e6ea-4629-ae62-f5403bc13fd3)
+
+## Vista de moderador
+
+![image](https://github.com/user-attachments/assets/8ec5847f-80bc-435e-bbdb-8c6efc8b4505)
+
+![image](https://github.com/user-attachments/assets/c3dde089-f725-43c6-b945-7838cd3fd57a)
+
+## Diagrama de secuencia
+
+![DiagramaDeSecuencias](https://github.com/user-attachments/assets/e5dc1d5e-b713-42c9-8186-a99a22dc7f7b)
+
+## Diagrama de casos de uso
+
+![Diagrama_de_casos_de_uso_GonzalezMorquecho_EsauEmmanuel](https://github.com/user-attachments/assets/ffa84428-2811-46b4-bea0-a2dabd76fd05)
+
+## Diagrama de clases
+
+![Diagrama de clases](https://github.com/user-attachments/assets/bd5799d2-5407-41a1-93f4-ebd1c0f63a5e)
+
+
+
+
+
+
+
+
+
+
 
 
 
